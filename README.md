@@ -1,6 +1,6 @@
 # DA5401 A4: GMM-Based Synthetic Sampling for Imbalanced Data
 
-**Course:** DA5401 - Advanced Data Analytics  
+**Course:** DA5401 - DSA
 **Term:** July-Nov 2025  
 **Student ID:** DA25M001
 
