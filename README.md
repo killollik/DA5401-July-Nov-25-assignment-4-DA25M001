@@ -18,7 +18,7 @@ A financial institution needs a robust fraud detection model. The primary challe
 
 ```
 .
-├── _.ipynb      # Main Jupyter Notebook with all code, visualizations, and analysis.
+├── DA5401_July_Nov_25_assignment_4_DA25M001.ipynb.ipynb      # Main Jupyter Notebook with all code, visualizations, and analysis.
 ├── creditcard.csv                    # The dataset file (if included in the repo).
 └── README.md                         # This readme file.
 ```
@@ -75,22 +75,5 @@ However, the experiment is valuable as it demonstrates the technique's potential
 - Jupyter Notebook or JupyterLab
 - Required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `kagglehub`.
 
-### Installation
-You can install the necessary libraries using pip:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn kagglehub
-```
-
-### Running the Notebook
-1.  Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/DA5401-July-Nov-25-assignment-4-DA25M001.git
-    cd DA5401-July-Nov-25-assignment-3-DA25M001
-    ```
-2.  Launch Jupyter Notebook or JupyterLab:
-    ```bash
-    jupyter notebook
-    ```
-3.  Open the `DA5401_A4_GMM_Analysis.ipynb` file and run the cells sequentially. The notebook uses `kagglehub` to automatically download the dataset.
 
 ---
