@@ -19,7 +19,6 @@ A financial institution needs a robust fraud detection model. The primary challe
 ```
 .
 ├── DA5401_July_Nov_25_assignment_4_DA25M001.ipynb.ipynb      # Main Jupyter Notebook with all code, visualizations, and analysis.
-├── creditcard.csv                    # The dataset file (if included in the repo).
 └── README.md                         # This readme file.
 ```
 
