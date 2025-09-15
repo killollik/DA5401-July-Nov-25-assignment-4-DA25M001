@@ -66,9 +66,6 @@ The multi-stage optimization process successfully transformed the GMM-based appr
 | **Recall (Fraud)**    |     0.643      |       **0.806**       |     +25.4%      |
 | **F1-Score (Fraud)**  |     0.724      |       **0.823**       |     +13.6%      |
 
-<p align="center">
-  <img src="https://i.imgur.com/48mYn7r.png" alt="Comparison Bar Chart" width="700">
-</p>
 
 - The optimized model increased **recall by over 25%**, catching a much higher proportion of fraudulent transactions.
 - It also managed to slightly **increase precision**, meaning its positive predictions are even more reliable than the baseline.
